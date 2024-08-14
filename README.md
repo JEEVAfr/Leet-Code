@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/JEEVAfr/Leet-Code/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/JEEVAfr/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 ## String
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/JEEVAfr/Leet-Code/tree/master/0050-powx-n) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
