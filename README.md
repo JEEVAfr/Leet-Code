@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
@@ -181,10 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JEEVAfr/Leet-Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEEVAfr/Leet-Code/tree/master/0011-container-with-most-water) |
+| [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
 | ------- |
