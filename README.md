@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/JEEVAfr/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/JEEVAfr/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
+| [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
