@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/JEEVAfr/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/JEEVAfr/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/JEEVAfr/Leet-Code/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
