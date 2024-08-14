@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/JEEVAfr/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
 ## String Matching
 |  |
 | ------- |
