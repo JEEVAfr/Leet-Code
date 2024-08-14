@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/JEEVAfr/Leet-Code/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEEVAfr/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/JEEVAfr/Leet-Code/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
