@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JEEVAfr/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JEEVAfr/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
