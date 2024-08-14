@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0953-reverse-only-letters](https://github.com/JEEVAfr/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3396-valid-word](https://github.com/JEEVAfr/Leet-Code/tree/master/3396-valid-word) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
+| [0953-reverse-only-letters](https://github.com/JEEVAfr/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/JEEVAfr/Leet-Code/tree/master/1168-duplicate-zeros) |
