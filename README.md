@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/JEEVAfr/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
+| [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0812-rotate-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 ## Sliding Window
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 ## Greedy
 |  |
 | ------- |
