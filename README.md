@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/JEEVAfr/Leet-Code/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0263-ugly-number) |
 ## Two Pointers
 |  |
 | ------- |
