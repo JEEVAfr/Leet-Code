@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JEEVAfr/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0043-multiply-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/JEEVAfr/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0043-multiply-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
