@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JEEVAfr/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/JEEVAfr/Leet-Code/tree/master/2283-sort-even-and-odd-indices-independently) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 ## Divide and Conquer
 |  |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/JEEVAfr/Leet-Code/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JEEVAfr/Leet-Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
