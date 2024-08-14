@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEEVAfr/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/JEEVAfr/Leet-Code/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/JEEVAfr/Leet-Code/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/JEEVAfr/Leet-Code/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEEVAfr/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
