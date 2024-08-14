@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JEEVAfr/Leet-Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/JEEVAfr/Leet-Code/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
