@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [2383-add-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/2383-add-two-integers) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
