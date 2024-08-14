@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/JEEVAfr/Leet-Code/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/JEEVAfr/Leet-Code/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/JEEVAfr/Leet-Code/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/JEEVAfr/Leet-Code/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 ## String Matching
 |  |
 | ------- |
@@ -117,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0128-longest-consecutive-sequence) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
