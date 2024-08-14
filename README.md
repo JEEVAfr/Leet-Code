@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/JEEVAfr/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/JEEVAfr/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |
