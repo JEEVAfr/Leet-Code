@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
+| [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 ## Hash Table
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
+| [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 ## Two Pointers
 |  |
 | ------- |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
