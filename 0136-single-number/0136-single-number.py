@@ -15,7 +15,10 @@ class Solution:
 
         for i in nums:
             unique = unique ^ i
-        return unique
+        return unique       #0(n) - time
+                            #0(1) - space
+
+                            
 
         
         
