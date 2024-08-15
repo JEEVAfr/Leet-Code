@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
+| [0890-lemonade-change](https://github.com/JEEVAfr/Leet-Code/tree/master/0890-lemonade-change) |
 | [0941-sort-array-by-parity](https://github.com/JEEVAfr/Leet-Code/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEEVAfr/Leet-Code/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0890-lemonade-change](https://github.com/JEEVAfr/Leet-Code/tree/master/0890-lemonade-change) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
