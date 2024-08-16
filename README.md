@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
+| [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/2383-add-two-integers) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
