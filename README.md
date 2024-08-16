@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JEEVAfr/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1656-count-good-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -357,5 +358,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/1656-count-good-triplets) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
