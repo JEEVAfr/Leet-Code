@@ -15,7 +15,8 @@ class Solution:
 
         #reverse second half
         previous = None
-        while slow is not None:
+
+        while slow is not None: # because current head is slow
         
             temp = slow.next
             slow.next = previous
