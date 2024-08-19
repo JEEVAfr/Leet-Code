@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/JEEVAfr/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0624-maximum-distance-in-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
