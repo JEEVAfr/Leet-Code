@@ -8,6 +8,8 @@ class Solution:
             else:
                 maximum = max(maximum, count)
                 count = 0
+            
+            maximum = max(maximum, count)
         
-        return max(maximum, count)
+        return maximum
         
