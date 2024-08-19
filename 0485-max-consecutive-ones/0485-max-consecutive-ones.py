@@ -5,11 +5,8 @@ class Solution:
         for i in nums:
             if i != 0:
                 count = count + 1
-            else:
                 maximum = max(maximum, count)
+            else:
                 count = 0
             
-            maximum = max(maximum, count)
-        
         return maximum
-        
