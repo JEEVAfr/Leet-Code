@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-sort-even-and-odd-indices-independently](https://github.com/JEEVAfr/Leet-Code/tree/master/2283-sort-even-and-odd-indices-independently) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JEEVAfr/Leet-Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/2383-add-two-integers) |
+| [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
