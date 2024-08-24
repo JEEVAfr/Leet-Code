@@ -4,8 +4,7 @@ class Solution:
             return n
         
         else:
-            a = n / n 
-            b = (a * n) * 2
+            b = (1 * n) * 2
             return int(b)
             
         
