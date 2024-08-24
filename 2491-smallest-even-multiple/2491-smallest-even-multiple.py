@@ -7,4 +7,5 @@ class Solution:
             a = n / n 
             b = (a * n) * 2
             return int(b)
+            
         
