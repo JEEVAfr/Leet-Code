@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2383-add-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/JEEVAfr/Leet-Code/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Two Pointers
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/JEEVAfr/Leet-Code/tree/master/2491-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
