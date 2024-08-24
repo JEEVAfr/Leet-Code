@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/JEEVAfr/Leet-Code/tree/master/2491-smallest-even-multiple) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Recursion
 |  |
 | ------- |
