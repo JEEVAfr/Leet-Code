@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JEEVAfr/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1656-count-good-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
+| [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
+| [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 | [2486-most-frequent-even-element](https://github.com/JEEVAfr/Leet-Code/tree/master/2486-most-frequent-even-element) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
