@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/JEEVAfr/Leet-Code/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
+| [0728-self-dividing-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0728-self-dividing-numbers) |
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
