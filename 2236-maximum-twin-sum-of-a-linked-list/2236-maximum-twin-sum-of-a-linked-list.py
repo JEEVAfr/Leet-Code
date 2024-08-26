@@ -5,6 +5,7 @@
 #         self.next = next
 class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
+        
         fast = head
         slow = head
 
