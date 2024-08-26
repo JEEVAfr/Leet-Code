@@ -23,17 +23,17 @@ class Solution:
         
         left , right = head, previous
 
-        result = []
+        max_sum = 0
         while right is not None:
             
             s = left.val + right.val
+            max_sum = max(max_sum, s)
 
-            if s:
-                result.append(s)
+            
             left = left.next
             right = right.next
         
-        return max(result)
+        return max_sum
             
 
         
