@@ -7,6 +7,7 @@ class Solution:
         count_hill = 0
         count_valley = 0
 
+        # this is used to remove two duplicate continuous
         cleaned_nums = [nums[0]]
         for i in range(1, len(nums)):
             if nums[i] != cleaned_nums[-1]:
