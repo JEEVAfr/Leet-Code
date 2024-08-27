@@ -6,7 +6,7 @@ class Solution:
 
         for i in range(1, n + 1):
             if n % i == 0:
-                a = nums[i - 1] * nums[i - 1]
+                a = nums[i - 1] ** 2
                 res = res + a
         
         return res
