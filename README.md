@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Stack
 |  |
 | ------- |
