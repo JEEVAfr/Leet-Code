@@ -6,11 +6,15 @@ class Solution:
         while left < right:
 
             mid = (left + right) // 2
-
-            if nums[mid] < nums[mid + 1]:
+            # peak element                          # # In case we find minimum:
+            if nums[mid] < nums[mid + 1]:           # #if nums[mid] > nums[right]:
                 left = mid + 1
             else:
                 right = mid
         
-        return left
+        return left # we call left or right
+
+
+       
+       
         
