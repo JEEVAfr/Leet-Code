@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/JEEVAfr/Leet-Code/tree/master/2283-sort-even-and-odd-indices-independently) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2486-most-frequent-even-element](https://github.com/JEEVAfr/Leet-Code/tree/master/2486-most-frequent-even-element) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/JEEVAfr/Leet-Code/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
