@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/JEEVAfr/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3221-find-the-peaks](https://github.com/JEEVAfr/Leet-Code/tree/master/3221-find-the-peaks) |
 ## Stack
 |  |
 | ------- |
