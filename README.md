@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
 | [0485-max-consecutive-ones](https://github.com/JEEVAfr/Leet-Code/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/JEEVAfr/Leet-Code/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/JEEVAfr/Leet-Code/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
