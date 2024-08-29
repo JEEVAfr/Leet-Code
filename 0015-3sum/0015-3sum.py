@@ -12,7 +12,9 @@ class Solution:
 
             while l < r:
 
-                if x + nums[l] + nums[r] == 0:
+                s = x + nums[l] + nums[r]
+
+                if s == 0:
                     result.append([x, nums[l], nums[r]])
                     while l < r and nums[l] == nums[l + 1]:
                         l = l + 1
@@ -20,7 +22,7 @@ class Solution:
                         r = r - 1
                     l = l + 1
                     r = r - 1
-                elif x + nums[l] + nums[r] > 0:
+                elif s > 0:
                     r = r - 1
                 else:
                     l = l + 1
