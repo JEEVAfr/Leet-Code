@@ -20,14 +20,14 @@ class Solution:
         else:
             return None
         
-        pointer = head
+        slow = head
 
-        while pointer != fast:
-            pointer = pointer.next
+        while slow != fast:
+            slow = slow.next
             fast = fast.next
 
         
-        return pointer
+        return slow
 
 
             
