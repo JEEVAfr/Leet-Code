@@ -14,8 +14,5 @@ class Solution:
             count_b[j] = count_b.get(j, 0) + 1
 
 
-        if count_a == count_b:
-            return True
-        else:
-            return False
+        return count_a == count_b
         
