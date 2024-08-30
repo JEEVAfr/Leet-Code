@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/JEEVAfr/Leet-Code/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JEEVAfr/Leet-Code/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/JEEVAfr/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JEEVAfr/Leet-Code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0392-is-subsequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
