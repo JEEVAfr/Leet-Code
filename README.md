@@ -422,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/JEEVAfr/Leet-Code/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/JEEVAfr/Leet-Code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0264-ugly-number-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0264-ugly-number-ii) |
+| [0338-counting-bits](https://github.com/JEEVAfr/Leet-Code/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/JEEVAfr/Leet-Code/tree/master/1013-fibonacci-number) |
 ## Memoization
