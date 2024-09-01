@@ -9,9 +9,8 @@ class Solution:
 
         while left < right:
 
-            if nums[left] + nums[right]:
-                average = (nums[left] + nums[right]) / 2
-                result = min(result, average)
+            average = (nums[left] + nums[right]) / 2
+            result = min(result, average)
             left = left + 1
             right = right - 1
         
