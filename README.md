@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/JEEVAfr/Leet-Code/tree/master/0961-long-pressed-name) |
 | [1542-consecutive-characters](https://github.com/JEEVAfr/Leet-Code/tree/master/1542-consecutive-characters) |
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/2298-count-integers-with-even-digit-sum) |
 ## Recursion
 |  |
