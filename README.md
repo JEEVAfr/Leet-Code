@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/JEEVAfr/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## String Matching
 |  |
 | ------- |
