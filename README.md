@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/JEEVAfr/Leet-Code/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0445-add-two-numbers-ii) |
+| [0507-perfect-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0728-self-dividing-numbers) |
