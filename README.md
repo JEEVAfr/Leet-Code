@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/JEEVAfr/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
+| [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
