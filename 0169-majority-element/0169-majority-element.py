@@ -8,8 +8,9 @@ class Solution:
 
             if count == 0:
                 element = nums[i]
-                count = count + 1
+                count = 1
                 continue
+                
             
             elif nums[i] == element:
                 count = count + 1
