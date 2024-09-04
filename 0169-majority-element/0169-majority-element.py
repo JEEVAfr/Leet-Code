@@ -1,14 +1,23 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count_s = {}
 
-        for i in nums:
-            count_s[i] = count_s.get(i, 0) + 1
+        element = nums[0]
+        count = 1
 
+        for i in range(1, len(nums)):
+
+            if count == 0:
+                element = nums[i]
+                count = count + 1
+                continue
+            
+            elif nums[i] == element:
+                count = count + 1
+            
+            elif nums[i] != element:
+                count = count - 1
         
-        for key, value in count_s.items():
-            if value > len(nums) // 2:
-                return key
+        return element
         
         
         
