@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JEEVAfr/Leet-Code/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/JEEVAfr/Leet-Code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/JEEVAfr/Leet-Code/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/JEEVAfr/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/JEEVAfr/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
