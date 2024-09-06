@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
+| [3379-score-of-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/JEEVAfr/Leet-Code/tree/master/3396-valid-word) |
 ## Sliding Window
 |  |
