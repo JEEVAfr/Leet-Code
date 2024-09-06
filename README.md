@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JEEVAfr/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/JEEVAfr/Leet-Code/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2401-count-asterisks](https://github.com/JEEVAfr/Leet-Code/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
