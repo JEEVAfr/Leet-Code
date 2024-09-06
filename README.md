@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/JEEVAfr/Leet-Code/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JEEVAfr/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/JEEVAfr/Leet-Code/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2401-count-asterisks](https://github.com/JEEVAfr/Leet-Code/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
