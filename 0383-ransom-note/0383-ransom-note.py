@@ -10,6 +10,7 @@ class Solution:
         for j in magazine:
             count_magazine[j] = count_magazine.get(j, 0) + 1
 
+        # Check if magazine has enough of each character needed
         for char in count_note:
             if count_magazine.get(char, 0) < count_note[char]:
                 return False
