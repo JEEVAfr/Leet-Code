@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/JEEVAfr/Leet-Code/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/JEEVAfr/Leet-Code/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/JEEVAfr/Leet-Code/tree/master/1168-duplicate-zeros) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JEEVAfr/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/JEEVAfr/Leet-Code/tree/master/1137-height-checker) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
