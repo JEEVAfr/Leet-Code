@@ -1,7 +1,7 @@
 class Solution:
     def heightChecker(self, heights: List[int]) -> int:
         
-        excepted = heights[:]
+        excepted = heights[:] # or a = list(heights) like copying
         heights.sort()
         count = 0
 
