@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/JEEVAfr/Leet-Code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/JEEVAfr/Leet-Code/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/JEEVAfr/Leet-Code/tree/master/0441-arranging-coins) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/JEEVAfr/Leet-Code/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 ## Interactive
