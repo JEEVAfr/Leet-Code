@@ -3,22 +3,18 @@ class Solution:
         
         left = 0
         right = len(nums) - 1
-        res = [0] * len(nums)
-        index = len(nums) - 1
+        result = []
 
         while left <= right:
 
-            left_sq = nums[left] ** 2
-            right_sq = nums[right] ** 2
-
-            if left_sq > right_sq:
-                res[index] = left_sq
+            if abs(nums[left]) > abs(nums[right]):
+                result.append(nums[left] ** 2)
                 left = left + 1
 
             else:
-                res[index] = right_sq
+                result.append(nums[right] ** 2)
                 right = right - 1
         
-            index = index - 1
+        result.reverse()
 
-        return res
+        return result
