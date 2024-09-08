@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3221-find-the-peaks](https://github.com/JEEVAfr/Leet-Code/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/JEEVAfr/Leet-Code/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
+| [3206-find-common-elements-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
