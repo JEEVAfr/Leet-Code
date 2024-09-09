@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/JEEVAfr/Leet-Code/tree/master/2756-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2634-minimum-common-value) |
 | [2698-find-the-array-concatenation-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -412,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JEEVAfr/Leet-Code/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sorting
 |  |
@@ -459,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2561-number-of-distinct-averages](https://github.com/JEEVAfr/Leet-Code/tree/master/2561-number-of-distinct-averages) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2756-buy-two-chocolates](https://github.com/JEEVAfr/Leet-Code/tree/master/2756-buy-two-chocolates) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
