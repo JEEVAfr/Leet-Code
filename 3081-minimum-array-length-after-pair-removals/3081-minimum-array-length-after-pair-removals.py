@@ -1,6 +1,5 @@
 class Solution:
     def minLengthAfterRemovals(self, nums: List[int]) -> int:
-        nums.sort()
         n = len(nums) // 2
         a = nums[:n]
         b = nums[n:]
