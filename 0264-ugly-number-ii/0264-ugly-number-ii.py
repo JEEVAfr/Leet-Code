@@ -1,28 +1,22 @@
 class Solution:
     def nthUglyNumber(self, n: int) -> int:
-        ugly_number_list = [1]
+        nums = [1]
 
-        two_number = 0
-        three_number = 0
-        five_number = 0
+        i2, i3, i5 = 0, 0, 0
+        
+        for i in range(1, n): # while len(ugly_number_list) < n:
 
-        while len(ugly_number_list) < n: # ugly_number_list is equal to n it will break the loop
+            minimum = min(nums[i2] * 2, nums[i3] * 3, nums[i5] * 5)
+            nums.append(minimum)
 
-            by2 = ugly_number_list[two_number] * 2
-            by3 = ugly_number_list[three_number] * 3
-            by5 = ugly_number_list[five_number] * 5
-
-            minimum = min(by2, by3, by5)
-            ugly_number_list.append(minimum)
-
-            if minimum == by2:
-                two_number += 1
-            if minimum == by3:
-                three_number += 1
-            if minimum == by5:
-                five_number += 1
+            if minimum == nums[i2] * 2:
+                i2 += 1
+            if minimum == nums[i3] * 3:
+                i3 += 1
+            if minimum == nums[i5] * 5:
+                i5 += 1
             
-        return ugly_number_list[-1]
+        return nums[-1]
 
 
             
