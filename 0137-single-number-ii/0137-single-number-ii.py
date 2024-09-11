@@ -1,11 +1,15 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
 
-        s = set(nums)
+        one = 0
+        two = 0
 
-        sum_dis = sum(s) * 3
-        a = sum(nums)
+        for i in nums:
 
-        result = (sum_dis - a) // 2
+            one = (one ^ i) & (~two)
+            two = (two ^ i) & (~one)
+        
 
-        return result
+        return one
+
+        
