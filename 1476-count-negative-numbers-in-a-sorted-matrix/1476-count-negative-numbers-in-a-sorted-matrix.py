@@ -4,18 +4,9 @@ class Solution:
         count = 0
 
         for i in grid:
-            left, right = 0, len(i) - 1
-
-            while left <= right:
-
-                mid = (left + right) // 2
-
-                if i[mid] < 0:
-                    right = mid - 1
-                else:
-                    left = mid + 1
-            
-            count += len(i) - left
+            for j in i:
+                if j < 0:
+                    count += 1
 
         return count
         
