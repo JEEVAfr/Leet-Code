@@ -1,15 +1,19 @@
 class Solution:
     def singleNonDuplicate(self, nums: List[int]) -> int:
 
-        count = {}
+        left = 0
+        right = len(nums) - 1
 
-        for i in nums:
-            count[i] = count.get(i, 0) + 1
-        
-        for key, value in count.items():
+        while left < right:
 
-            if value == 1:
-                return key 
+            mid = (left + right) // 2
 
-
+            if mid % 2 == 0 and nums[mid] == nums[mid + 1]:
+                left = mid + 2
+            elif mid % 2 == 1 and nums[mid] == nums[mid - 1]:
+                left = mid + 1
+            else:
+                right = mid
+                
+        return nums[left]
         
