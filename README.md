@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/JEEVAfr/Leet-Code/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/JEEVAfr/Leet-Code/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/JEEVAfr/Leet-Code/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/JEEVAfr/Leet-Code/tree/master/0605-can-place-flowers) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/JEEVAfr/Leet-Code/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/JEEVAfr/Leet-Code/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/JEEVAfr/Leet-Code/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/JEEVAfr/Leet-Code/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/0755-reach-a-number) |
