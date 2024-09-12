@@ -3,8 +3,7 @@ class Solution:
 
         if n >= 4:
             return False
-        elif n == 1 or n == 2:
-            return False
+       
         
 
         
