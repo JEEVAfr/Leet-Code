@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JEEVAfr/Leet-Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/JEEVAfr/Leet-Code/tree/master/0953-reverse-only-letters) |
 | [0961-long-pressed-name](https://github.com/JEEVAfr/Leet-Code/tree/master/0961-long-pressed-name) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/JEEVAfr/Leet-Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1542-consecutive-characters](https://github.com/JEEVAfr/Leet-Code/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JEEVAfr/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
