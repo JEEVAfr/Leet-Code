@@ -1,16 +1,16 @@
 class Solution:
     def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
 
-        count = len(words)
+        count = 0
         a = set(allowed)
 
         for i in words:
-            for j in i:
-                if j not in a:
-                    count -= 1
-                    break
+            if all(j in a for j in i):
+                count += 1
+        
         return count
-
+                
+        
         
 
         
