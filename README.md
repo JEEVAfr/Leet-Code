@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JEEVAfr/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/JEEVAfr/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1848-sum-of-unique-elements) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-long-pressed-name](https://github.com/JEEVAfr/Leet-Code/tree/master/0961-long-pressed-name) |
 | [1542-consecutive-characters](https://github.com/JEEVAfr/Leet-Code/tree/master/1542-consecutive-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/JEEVAfr/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/JEEVAfr/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/JEEVAfr/Leet-Code/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
