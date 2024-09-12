@@ -5,7 +5,6 @@ class Solution:
             return False
         elif n == 1 or n == 2:
             return False
-        else:
-            return True
+        
 
         
