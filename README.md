@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/JEEVAfr/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1848-sum-of-unique-elements) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2058-concatenation-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2058-concatenation-of-array) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
