@@ -3,10 +3,8 @@ class Solution:
         a = set(nums)
         result = []
         for i in range(1, len(nums) + 1):
-            if i in a:
-                continue
-            else:
-                result.append(i)
+            if i not in a:
+                result.append(i)     
             
         return result
 
