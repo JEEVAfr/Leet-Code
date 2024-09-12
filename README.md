@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/JEEVAfr/Leet-Code/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/JEEVAfr/Leet-Code/tree/master/1168-duplicate-zeros) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JEEVAfr/Leet-Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/JEEVAfr/Leet-Code/tree/master/1421-find-numbers-with-even-number-of-digits) |
