@@ -4,7 +4,8 @@ class Solution:
         nums = []
 
         for i in range(n):
-            nums.append(start + 2 * i)
+            a = (start + 2 * i)
+            nums.append(a)
 
         unique = 0
 
