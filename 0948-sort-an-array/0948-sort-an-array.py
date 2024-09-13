@@ -1,12 +1,11 @@
 class Solution:
     def sortArray(self, nums: List[int]) -> List[int]:
-
-        
+      
         if len(nums) > 1:
             middle = len(nums) // 2
 
-            left = self.sortArray(nums[:middle])  # Recursively sort the left half
-            right = self.sortArray(nums[middle:])  # Recursively sort the right half
+            left = self.sortArray(nums[:middle])  # Recursively call the left half
+            right = self.sortArray(nums[middle:])  # Recursively call the right half
 
             left_pointer = 0
             right_pointer = 0
@@ -35,5 +34,8 @@ class Solution:
                 check_pointer += 1
 
         return nums
+
+        # time : merge - O(N) * split - log(n) -> O(n log n)
+        # space : o(n) stack and heap
 
        
