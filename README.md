@@ -374,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2571-find-the-pivot-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/2571-find-the-pivot-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/JEEVAfr/Leet-Code/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
