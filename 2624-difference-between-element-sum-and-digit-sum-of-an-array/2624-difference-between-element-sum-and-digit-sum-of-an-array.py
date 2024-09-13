@@ -6,10 +6,10 @@ class Solution:
 
         for i in nums:
             res += i
+        
+        for i in nums:
             digit = sum(int(j) for j in str(i))
             res_1 += digit
-        
-
-        
+            
         return res - res_1
         
