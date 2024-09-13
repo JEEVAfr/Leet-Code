@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
+| [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/JEEVAfr/Leet-Code/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/JEEVAfr/Leet-Code/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/JEEVAfr/Leet-Code/tree/master/0389-find-the-difference) |
+| [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/JEEVAfr/Leet-Code/tree/master/2323-minimum-bit-flips-to-convert-number) |
