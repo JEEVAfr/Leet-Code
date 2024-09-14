@@ -8,9 +8,9 @@ class Solution:
         right = n - 1
         cp = (n + m) - 1
         
-        while right >= 0:
+        while left >= 0 and right >= 0:
 
-            if left >= 0 and nums1[left] > nums2[right]:
+            if nums1[left] > nums2[right]:
                 nums1[cp] = nums1[left]
                 left = left - 1
 
@@ -19,6 +19,12 @@ class Solution:
                 right = right - 1
 
             cp = cp - 1
+        
+        while right >= 0:
+
+            nums1[cp] = nums2[right]
+            right -= 1
+            cp -= 1
                 
     
 
