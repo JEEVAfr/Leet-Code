@@ -359,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1284-four-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/1284-four-divisors) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -684,6 +685,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/JEEVAfr/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2573-remove-nodes-from-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2573-remove-nodes-from-linked-list) |
