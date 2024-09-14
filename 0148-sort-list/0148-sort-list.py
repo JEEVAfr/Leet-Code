@@ -6,13 +6,15 @@
 class Solution:
     def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
 
+        # convert linked list to list
         res = []
         current = head
 
         while current is not None:
             res.append(current.val)
             current = current.next
-           
+
+        # using merge sort   
         def mergesort(res):
 
             if len(res) <= 1:
@@ -21,7 +23,7 @@ class Solution:
             middle = len(res) // 2
             left_half = res[:middle]
             right_half = res[middle:]
-            
+
             left_half = mergesort(left_half)
             right_half = mergesort(right_half)
 
@@ -52,12 +54,11 @@ class Solution:
             
             return res
         
-        sorted_res = mergesort(res)
-            
+             
         dummy = ListNode()
         current = dummy
 
-        for i in sorted_res:
+        for i in mergesort(res):
             current.next = ListNode(i)
             current = current.next
     
