@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JEEVAfr/Leet-Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1284-four-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/JEEVAfr/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JEEVAfr/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
+| [1284-four-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/1284-four-divisors) |
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
