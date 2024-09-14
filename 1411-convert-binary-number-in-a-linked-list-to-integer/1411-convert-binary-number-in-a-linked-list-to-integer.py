@@ -15,9 +15,7 @@ class Solution:
             current = current.next
         
         l1_value = "".join(l1_value)
-        print(l1_value)
-        print(type(l1_value))
-
+        
         decimal_value = int(l1_value, 2)
 
         return decimal_value
