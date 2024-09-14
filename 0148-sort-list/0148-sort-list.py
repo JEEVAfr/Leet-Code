@@ -54,11 +54,11 @@ class Solution:
             
             return res
         
-             
+        # convert list to linked list   
         dummy = ListNode()
         current = dummy
 
-        for i in mergesort(res):
+        for i in mergesort(res): # direct use the function
             current.next = ListNode(i)
             current = current.next
     
