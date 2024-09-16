@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1031-add-to-array-form-of-integer) |
 | [1115-valid-boomerang](https://github.com/JEEVAfr/Leet-Code/tree/master/1115-valid-boomerang) |
 | [1284-four-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/1284-four-divisors) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1500-count-largest-group](https://github.com/JEEVAfr/Leet-Code/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
