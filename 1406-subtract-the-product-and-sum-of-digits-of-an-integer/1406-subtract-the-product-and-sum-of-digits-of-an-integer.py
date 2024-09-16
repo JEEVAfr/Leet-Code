@@ -4,10 +4,14 @@ class Solution:
         product = 1
         sum_digit = 0
 
-        for i in str(n):
+        while n != 0:
 
-            product *= int(i)
-            sum_digit += int(i)
+            digit = int(math.fmod(n, 10))
+            n = int(n / 10)
+
+            product *= digit
+            sum_digit += digit
         
         return product - sum_digit
+
         
