@@ -9,7 +9,8 @@ class Solution:
                 result.remove(s[left])
                 left = left + 1
             result.add(s[i])
-            count = max(count, i - left + 1)
+            a = i - left + 1
+            count = max(count, a)
         
         return count
         
