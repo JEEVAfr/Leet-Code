@@ -11,10 +11,9 @@ class Solution:
 
             f = distance * m
 
-            if f > result:
-                result = f
+            result = max(result, f)
 
-            elif height[left] > height[right]:
+            if height[left] > height[right]:
                 right = right - 1
             
             else:
