@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0782-jewels-and-stones](https://github.com/JEEVAfr/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
+| [0782-jewels-and-stones](https://github.com/JEEVAfr/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
