@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2630-alternating-digit-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/JEEVAfr/Leet-Code/tree/master/2752-sum-multiples) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3371-harshad-number](https://github.com/JEEVAfr/Leet-Code/tree/master/3371-harshad-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/JEEVAfr/Leet-Code/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Two Pointers
 |  |
