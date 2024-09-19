@@ -5,9 +5,7 @@ class Solution:
         max_nums = 0
 
         for i in nums:
-            if i < min_nums:
-                min_nums = i
-            
+            min_nums = min(i, min_nums)
             diff = i - min_nums
             max_nums = max(max_nums, diff)
         
