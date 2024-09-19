@@ -1,7 +1,7 @@
 class Solution:
     def maximumDifference(self, nums: List[int]) -> int:
 
-        min_nums = float('inf')
+        min_nums = nums[0]
         max_nums = 0
 
         for i in nums:
