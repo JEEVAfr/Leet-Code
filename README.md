@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/JEEVAfr/Leet-Code/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2181-smallest-index-with-equal-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JEEVAfr/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
