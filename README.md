@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2401-count-asterisks](https://github.com/JEEVAfr/Leet-Code/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
+| [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/3379-score-of-a-string) |
@@ -581,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/JEEVAfr/Leet-Code/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/JEEVAfr/Leet-Code/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2698-find-the-array-concatenation-value) |
 ## Recursion
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0682-baseball-game) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2573-remove-nodes-from-linked-list) |
 ## Counting Sort
 |  |
