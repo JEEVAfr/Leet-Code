@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JEEVAfr/Leet-Code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -548,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/JEEVAfr/Leet-Code/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/JEEVAfr/Leet-Code/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/2215-finding-3-digit-even-numbers) |
