@@ -755,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/JEEVAfr/Leet-Code/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/JEEVAfr/Leet-Code/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/JEEVAfr/Leet-Code/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0682-baseball-game) |
@@ -790,4 +791,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JEEVAfr/Leet-Code/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
