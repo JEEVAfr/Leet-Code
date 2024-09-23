@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/JEEVAfr/Leet-Code/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/JEEVAfr/Leet-Code/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/JEEVAfr/Leet-Code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/JEEVAfr/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/JEEVAfr/Leet-Code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
@@ -739,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/JEEVAfr/Leet-Code/tree/master/0725-split-linked-list-in-parts) |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/JEEVAfr/Leet-Code/tree/master/0817-design-hashmap) |
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/JEEVAfr/Leet-Code/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -809,8 +812,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/JEEVAfr/Leet-Code/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JEEVAfr/Leet-Code/tree/master/0232-implement-queue-using-stacks) |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/JEEVAfr/Leet-Code/tree/master/0817-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
+| [0817-design-hashmap](https://github.com/JEEVAfr/Leet-Code/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
