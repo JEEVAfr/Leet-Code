@@ -12,8 +12,9 @@ class Solution:
                     s[right] = s[left]
                 else:
                     s[left] = s[right]
-            left += 1
-            right -= 1
+            else:
+                left += 1
+                right -= 1
 
         return ''.join(s)
 
