@@ -3,12 +3,12 @@ class Solution:
         a = min(nums)
         b = max(nums)
 
-        result = []
+        res = 1
         for i in range(1, b + 1):
             if a % i == 0 and b % i == 0:
-                result.append(i)
+                res = max(res, i)
         
-        return max(result)
+        return res
                 
             
         
