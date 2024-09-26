@@ -27,10 +27,11 @@ class Solution:
         left, right = head, previous # slow is going to be None and previous is behind of slow.
 
         while right is not None:
-            if left.val != right.val:
+            if left.val == right.val:
+                left = left.next
+                right = right.next
+            else:
                 return False
-            left = left.next
-            right = right.next
         
         return True
 
