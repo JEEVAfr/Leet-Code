@@ -22,7 +22,7 @@ class Solution:
                 
             
             else:
-                if nums[m] < target <= nums[right]:
+                if nums[m] <= target <= nums[right]:
                     left = left + 1
                 else:
                     right = right - 1
