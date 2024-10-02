@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/JEEVAfr/Leet-Code/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1256-rank-transform-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1284-four-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/1284-four-divisors) |
 | [1293-three-consecutive-odds](https://github.com/JEEVAfr/Leet-Code/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-linked-list-components](https://github.com/JEEVAfr/Leet-Code/tree/master/0835-linked-list-components) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/JEEVAfr/Leet-Code/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/JEEVAfr/Leet-Code/tree/master/0924-fair-candy-swap) |
+| [1256-rank-transform-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/JEEVAfr/Leet-Code/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1319-unique-number-of-occurrences](https://github.com/JEEVAfr/Leet-Code/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -544,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/JEEVAfr/Leet-Code/tree/master/1137-height-checker) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1210-mean-of-array-after-removing-some-elements) |
+| [1256-rank-transform-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JEEVAfr/Leet-Code/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/JEEVAfr/Leet-Code/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
