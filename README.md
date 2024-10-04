@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/JEEVAfr/Leet-Code/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/JEEVAfr/Leet-Code/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/JEEVAfr/Leet-Code/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/JEEVAfr/Leet-Code/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/JEEVAfr/Leet-Code/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/JEEVAfr/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/JEEVAfr/Leet-Code/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/JEEVAfr/Leet-Code/tree/master/0561-array-partition) |
@@ -682,6 +684,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/JEEVAfr/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JEEVAfr/Leet-Code/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0264-ugly-number-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/JEEVAfr/Leet-Code/tree/master/0338-counting-bits) |
