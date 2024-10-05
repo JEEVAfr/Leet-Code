@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/JEEVAfr/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/JEEVAfr/Leet-Code/tree/master/0816-design-hashset) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0434-number-of-segments-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/JEEVAfr/Leet-Code/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/JEEVAfr/Leet-Code/tree/master/0782-jewels-and-stones) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/JEEVAfr/Leet-Code/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/JEEVAfr/Leet-Code/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/JEEVAfr/Leet-Code/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -459,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/JEEVAfr/Leet-Code/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/JEEVAfr/Leet-Code/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0680-valid-palindrome-ii) |
 | [0841-shortest-distance-to-a-character](https://github.com/JEEVAfr/Leet-Code/tree/master/0841-shortest-distance-to-a-character) |
