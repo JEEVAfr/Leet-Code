@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2401-count-asterisks](https://github.com/JEEVAfr/Leet-Code/tree/master/2401-count-asterisks) |
 | [2427-first-letter-to-appear-twice](https://github.com/JEEVAfr/Leet-Code/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JEEVAfr/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/3379-score-of-a-string) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2551-apply-operations-to-an-array) |
 | [2698-find-the-array-concatenation-value](https://github.com/JEEVAfr/Leet-Code/tree/master/2698-find-the-array-concatenation-value) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JEEVAfr/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -787,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2573-remove-nodes-from-linked-list) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/JEEVAfr/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Counting Sort
 |  |
 | ------- |
