@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JEEVAfr/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JEEVAfr/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/JEEVAfr/Leet-Code/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/JEEVAfr/Leet-Code/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/JEEVAfr/Leet-Code/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/JEEVAfr/Leet-Code/tree/master/1894-merge-strings-alternately) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JEEVAfr/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/JEEVAfr/Leet-Code/tree/master/1018-largest-perimeter-triangle) |
 | [1880-largest-merge-of-two-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/1880-largest-merge-of-two-strings) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JEEVAfr/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/JEEVAfr/Leet-Code/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0682-baseball-game) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/JEEVAfr/Leet-Code/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/2470-removing-stars-from-a-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/JEEVAfr/Leet-Code/tree/master/2573-remove-nodes-from-linked-list) |
