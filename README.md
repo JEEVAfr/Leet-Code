@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/JEEVAfr/Leet-Code/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3194-find-words-containing-character](https://github.com/JEEVAfr/Leet-Code/tree/master/3194-find-words-containing-character) |
+| [3195-separate-black-and-white-balls](https://github.com/JEEVAfr/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/JEEVAfr/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3396-valid-word](https://github.com/JEEVAfr/Leet-Code/tree/master/3396-valid-word) |
 ## Sliding Window
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3081-minimum-array-length-after-pair-removals](https://github.com/JEEVAfr/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/JEEVAfr/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3170-find-indices-with-index-and-value-difference-ii](https://github.com/JEEVAfr/Leet-Code/tree/master/3170-find-indices-with-index-and-value-difference-ii) |
+| [3195-separate-black-and-white-balls](https://github.com/JEEVAfr/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/JEEVAfr/Leet-Code/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/JEEVAfr/Leet-Code/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/JEEVAfr/Leet-Code/tree/master/3081-minimum-array-length-after-pair-removals) |
+| [3195-separate-black-and-white-balls](https://github.com/JEEVAfr/Leet-Code/tree/master/3195-separate-black-and-white-balls) |
 ## Sorting
 |  |
 | ------- |
