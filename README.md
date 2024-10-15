@@ -411,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/JEEVAfr/Leet-Code/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
+| [1806-count-of-matches-in-tournament](https://github.com/JEEVAfr/Leet-Code/tree/master/1806-count-of-matches-in-tournament) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2037-count-square-sum-triples](https://github.com/JEEVAfr/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2083-three-divisors](https://github.com/JEEVAfr/Leet-Code/tree/master/2083-three-divisors) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/JEEVAfr/Leet-Code/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/JEEVAfr/Leet-Code/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/JEEVAfr/Leet-Code/tree/master/0682-baseball-game) |
+| [1806-count-of-matches-in-tournament](https://github.com/JEEVAfr/Leet-Code/tree/master/1806-count-of-matches-in-tournament) |
 | [2058-concatenation-of-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/JEEVAfr/Leet-Code/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/JEEVAfr/Leet-Code/tree/master/2132-convert-1d-array-into-2d-array) |
