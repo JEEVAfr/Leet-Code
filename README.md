@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/JEEVAfr/Leet-Code/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/JEEVAfr/Leet-Code/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/JEEVAfr/Leet-Code/tree/master/1848-sum-of-unique-elements) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/JEEVAfr/Leet-Code/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1984-maximum-distance-between-a-pair-of-values](https://github.com/JEEVAfr/Leet-Code/tree/master/1984-maximum-distance-between-a-pair-of-values) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/JEEVAfr/Leet-Code/tree/master/1988-minimize-maximum-pair-sum-in-array) |
